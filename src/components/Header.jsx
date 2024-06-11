@@ -1,10 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const Header = () => {
-  return (
-    <div>Header Section</div>
-    
-  )
-}
+	return (
+		<div>
+			<div style={{background: "yellow"}}>Header Section Fixed</div>
+		</div>
+	);
+};
 
-export default Header
+
+export default Header;

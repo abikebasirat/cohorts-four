@@ -1,0 +1,14 @@
+h1{
+    background:  gold;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center  ;
+}
+p{
+    background:  gold;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
